@@ -1,0 +1,50 @@
+Day,Period,Course code,Group,Teacher,Room
+Monday,3,CS334,Group 1,Azra Iftekhar,B015
+Monday,3,CS341,Group 2,Falak Khursheed,B217
+Monday,4,CS312,Group 2,Aqsa Fatima,B211
+Monday,5,CS301,Group 1,Danish Ahmad,B141
+Monday,5,CS301,Group 2,Shakir Ali,B141
+Monday,5,CS301,,Mohammad Ishaque,B141
+Monday,6,CS301,Group 1,Danish Ahmad,B141
+Monday,6,CS301,Group 2,Shakir Ali,B141
+Monday,6,CS301,,Mohammad Ishaque,B141
+Monday,7,CS391,,Saleha Mariyam,B111
+Monday,8,CS301,,Shakir Ali,B111
+Tuesday,1,CG303,,Shaz Alam,B027
+Tuesday,2,CS342,Group 1,Mohd Anas Khan,B211
+Tuesday,3,CS338,Group 1,Anas Habib Zuberi,Cse Lab 12
+Tuesday,3,CS338,Group 1,Md Gufran Nasir,Cse Lab 12
+Tuesday,3,CS391,Group 2,Badaruzzaman,Cse Lab 11
+Tuesday,3,CS391,Group 2,Saleha Mariyam,Cse Lab 11
+Tuesday,4,CS338,Group 1,Anas Habib Zuberi,Cse Lab 12
+Tuesday,4,CS338,Group 1,Md Gufran Nasir,Cse Lab 12
+Tuesday,4,CS391,Group 2,Badaruzzaman,Cse Lab 11
+Tuesday,4,CS391,Group 2,Saleha Mariyam,Cse Lab 11
+Tuesday,6,CS391,,Saleha Mariyam,B017
+Tuesday,8,CG303,,Shahana Khan,B027
+Wednesday,1,CS334,Group 1,Azra Iftekhar,B015
+Wednesday,1,CS341,Group 2,Falak Khursheed,B211
+Wednesday,2,CS312,Group 2,Aqsa Fatima,B211
+Wednesday,2,CS342,Group 1,Mohd Anas Khan,B038
+Wednesday,3,CS392,,Mr. Ashirbad Routray,B111
+Wednesday,6,CS301,,Shakir Ali,B017
+Thursday,1,CS312,Group 2,Aqsa Fatima,B015
+Thursday,3,CS391,,Saleha Mariyam,B118(A)
+Thursday,5,CS338,Group 2,Ummey Habiba,Cse Lab 15
+Thursday,5,CS338,Group 2,Mohammad Aman,Cse Lab 15
+Thursday,5,CS391,Group 1,Badaruzzaman,Cse Lab 12
+Thursday,5,CS391,Group 1,Rahul Ranjan,Cse Lab 12
+Thursday,6,CS338,Group 2,Ummey Habiba,Cse Lab 15
+Thursday,6,CS338,Group 2,Mohammad Aman,Cse Lab 15
+Thursday,6,CS391,Group 1,Badaruzzaman,Cse Lab 12
+Thursday,6,CS391,Group 1,Rahul Ranjan,Cse Lab 12
+Thursday,7,CS392,,Mr. Ashirbad Routray,B117
+Friday,1,CS301,,Shakir Ali,B115
+Friday,2,CG303,,Shaz Alam,Online
+Friday,3,CS392,,Mr. Ashirbad Routray,B015
+Friday,4,CS391,,Saleha Mariyam,B111
+Saturday,1,CS392,,Mr. Ashirbad Routray,B017
+Saturday,2,CS342,Group 1,Mohd Anas Khan,B235
+Saturday,3,CS301,,Shakir Ali,B111
+Saturday,4,CS334,Group 1,Azra Iftekhar,B015
+Saturday,4,CS341,Group 2,Falak Khursheed,B009
